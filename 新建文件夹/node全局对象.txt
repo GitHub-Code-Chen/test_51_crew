@@ -1,0 +1,17 @@
+setTimeout
+console     控制台
+process	代表当前启动node程序的进程
+Buffer	存储数据的篮子(缓冲区 -> 数组)
+global 类似window顶级对象
+__filename  属性值  文件所在的绝对路径
+__dirname  属性值   文件所在的目录绝对路径
+require
+module
+exports
+
+
+
+
+encipher
+notepad
+new_player
